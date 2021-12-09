@@ -1,0 +1,12 @@
+.vs/
+Antra.MVS.ConsoleApp/bin/
+Antra.MVS.ConsoleApp/obj/
+Antra.MVS.ConsoleApp.csproj
+Antra.MVS.Data.Entities/bin/
+Antra.MVS.Data.Entities/obj/
+Antra.MVS.Data.Entities.csproj
+Antra.MVS.Data.Repos/bin/
+Antra.MVS.Data.Repos/obj/
+Antra.MVS.Data.Repos.csproj
+MVS/
+MVS.sln
